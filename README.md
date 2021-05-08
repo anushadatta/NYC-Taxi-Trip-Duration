@@ -33,3 +33,10 @@ __Result (Kaggle Private Leaderboard):__ RMSE 0.37112, 116th position (top 9.2%)
   * Weather Dataset: https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016
 
 * All code cells must be executed sequentially. 
+
+## Team
+* Anusha Datta
+* Amrita Ravishankar
+* Atrik Das
+* Divyesh Mundhra
+* Mehul Kumar
